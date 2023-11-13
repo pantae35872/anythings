@@ -1,4 +1,4 @@
-Nah this generate readme sucks
+Nah this forge generated readme sucks
 Source installation information for modders
 -------------------------------------------
 This code follows the Minecraft Forge installation methodology. It will apply
