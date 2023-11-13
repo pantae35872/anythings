@@ -1,0 +1,10 @@
+{
+  "credit": "Made with Blockbench",
+  "textures": {
+    "0": "anythings:block/nothing",
+    "particle": "minecraft:block/obsidian"
+  },
+  "elements": [
+  ],
+  "display": {}
+}

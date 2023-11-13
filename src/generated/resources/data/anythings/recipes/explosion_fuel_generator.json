@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "A": {
+      "item": "minecraft:obsidian"
+    },
+    "E": {
+      "tag": "forge:glass_panes"
+    },
+    "R": {
+      "item": "minecraft:piston"
+    }
+  },
+  "pattern": [
+    "AEA",
+    "ERE",
+    "AEA"
+  ],
+  "result": {
+    "item": "anythings:explosion_fuel_generator"
+  },
+  "show_notification": true
+}

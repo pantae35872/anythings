@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "anythings:block/explosion_fuel_generator"
+    }
+  }
+}

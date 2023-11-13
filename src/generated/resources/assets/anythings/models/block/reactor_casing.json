@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube",
+  "block_name": "reactor_casing",
+  "loader": "anythings:connectedtextureloader",
+  "use_default": false
+}

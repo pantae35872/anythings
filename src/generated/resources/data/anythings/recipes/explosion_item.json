@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:flint_and_steel"
+    },
+    "C": {
+      "item": "minecraft:sand"
+    },
+    "E": {
+      "item": "minecraft:tnt"
+    }
+  },
+  "pattern": [
+    "AEA",
+    "ECE",
+    "AEA"
+  ],
+  "result": {
+    "count": 8,
+    "item": "anythings:explosion_item"
+  },
+  "show_notification": true
+}

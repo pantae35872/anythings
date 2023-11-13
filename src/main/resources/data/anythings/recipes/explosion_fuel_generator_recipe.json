@@ -1,0 +1,15 @@
+{
+  "type": "anythings:explosion_fuel_generator",
+  "ingredients": [
+    {
+      "item": "minecraft:tnt"
+    },
+    {
+      "item": "anythings:explosion_item"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    }
+  ],
+  "outputs": [[48, 48],[84, 84],[32, 32]]
+}
